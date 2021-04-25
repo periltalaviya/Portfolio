@@ -155,7 +155,7 @@ h3,
 }
 
 .bg-image-section {
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/p3.jpg");
   background-size: auto;
   background-repeat: round;
 }
@@ -394,14 +394,17 @@ img {
 .fa-envelope,
 .fa-phone-alt,
 .fa-viruses,
+.fa-paw,
+.fa-leaf,
 .fa-print,
+.fa-heartbeat,
 .fa-laptop-code {
   font-size: 40px;
   color: #2c2c2c;
 }
 
 .fact-text {
-  margin: 10px 0;
+  margin: 10px -10px;
   color: #2c2c2c;
 }
 
