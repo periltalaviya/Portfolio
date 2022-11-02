@@ -400,7 +400,9 @@ img {
 .fa-recycle,
 .fa-heartbeat,
 .fa-broom,
-.fa-laptop-code {
+.fa-laptop-code,
+.fa-pizza-slice,
+.fa-gavel {
   font-size: 40px;
   color: #2c2c2c;
 }
